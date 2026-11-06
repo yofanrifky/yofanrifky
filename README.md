@@ -1,14 +1,18 @@
- <div align="center">
+<div align="center">
 
-# 👨‍💻 Muchamad Yofan Rifky Herfanda
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muchamad%20Yofan%20Rifky%20Herfanda&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Calon%20Software%20Engineer%20%7C%20Backend%20%26%20Frontend%20Developer&descSize=16&descAlignY=58" alt="Header" />
 
-### 🎓 Software Engineering Student at SMK Negeri 1 Kepanjen
+<a href="https://github.com/yofanrifky">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D1FF&center=true&vCenter=true&width=620&lines=Siswa+Rekayasa+Perangkat+Lunak+%F0%9F%8E%93;Belajar+Rust+%26+Actix+Web+%F0%9F%A6%80;Membangun+Backend+yang+Andal+%E2%9A%99%EF%B8%8F;Disiplin+%E2%80%A2+Problem+Solving+%E2%80%A2+Kepemimpinan" alt="Typing SVG" />
+</a>
 
-**Aspiring Software Engineer | Backend & Frontend Developer**
+<br />
 
-<p>
-  <i>Discipline • Problem Solving • Continuous Learning • Leadership</i>
-</p>
+🎓 **Siswa Rekayasa Perangkat Lunak — SMK Negeri 1 Kepanjen**
+
+<i>Disiplin • Pemecahan Masalah • Belajar Berkelanjutan • Kepemimpinan</i>
+
+<br /><br />
 
 <a href="mailto:yofanrefki@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -17,48 +21,54 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Location-East_Java-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Lokasi-Jawa_Timur-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lokasi" />
 </a>
 
 </div>
 
----
-
-## 🌟 About Me
-
-I am a Software Engineering student at **SMK Negeri 1 Kepanjen**, Indonesia, with an interest in software development, particularly frontend development, backend engineering, database management, and application development.
-
-I enjoy exploring programming concepts, understanding software architecture, and building practical applications to improve my technical skills.
-
-My current learning focus includes **Rust backend development, JavaScript, web technologies, SQL databases, and UI/UX fundamentals**.
-
-Beyond technology, my experience as a **Scouting Leader (Pradana)** has helped me develop leadership, communication, teamwork, discipline, and problem-solving skills.
-
-My goal is to become a competent Software Engineer capable of designing, developing, and maintaining reliable, efficient, and user-friendly software systems.
+<br />
 
 ---
 
-## 🎓 Education
+## 🌟 Tentang Saya
 
-| Institution | Major | Period |
-|:---|:---|:---|
-| **SMK Negeri 1 Kepanjen** | Software Engineering (RPL) | August 2024 – Present |
-| **Expected Graduation** | 2027 | |
+Halo! Saya siswa **Rekayasa Perangkat Lunak (RPL) di SMK Negeri 1 Kepanjen**, Indonesia. Saya tertarik pada pengembangan perangkat lunak, terutama **frontend**, **backend**, **manajemen basis data**, dan **pengembangan aplikasi**.
 
-**Relevant Subjects:**
-- Web Programming
-- Mobile Application Development
-- Database Management
-- Object-Oriented Programming (OOP)
-- Software Development Fundamentals
+Saya senang mendalami konsep pemrograman, memahami arsitektur perangkat lunak, dan membangun aplikasi nyata untuk mengasah kemampuan teknis.
+
+> 🎯 **Fokus belajar saat ini:** pengembangan backend dengan **Rust**, **JavaScript**, teknologi web, basis data **SQL**, dan dasar-dasar **UI/UX**.
+
+Di luar dunia teknologi, pengalaman sebagai **Ketua Ambalan (Pradana) Pramuka** melatih kepemimpinan, komunikasi, kerja sama tim, disiplin, dan kemampuan memecahkan masalah.
+
+**Tujuan saya:** menjadi *Software Engineer* yang kompeten, mampu merancang, membangun, dan merawat sistem yang andal, efisien, dan ramah pengguna.
 
 ---
 
-## 🛠️ Technical Skills
+## 🎓 Pendidikan
 
-### 🎨 1. Frontend Development
+| 🏫 Institusi | 📘 Jurusan | 🗓️ Periode |
+|:---|:---|:---:|
+| **SMK Negeri 1 Kepanjen** | Rekayasa Perangkat Lunak (RPL) | Agustus 2024 – Sekarang |
+| **Perkiraan Lulus** | | **2027** |
 
-Technologies for building web interfaces and interactive user experiences.
+<details>
+<summary><b>📚 Mata pelajaran relevan (klik untuk membuka)</b></summary>
+<br />
+
+- 🌐 Pemrograman Web
+- 📱 Pengembangan Aplikasi Mobile
+- 🗄️ Manajemen Basis Data
+- 🧩 Pemrograman Berorientasi Objek (OOP)
+- 🛠️ Dasar-Dasar Pengembangan Perangkat Lunak
+
+</details>
+
+---
+
+## 🛠️ Keahlian Teknis
+
+### 🎨 Frontend
+*Membangun antarmuka web yang interaktif dan nyaman digunakan.*
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -66,9 +76,8 @@ Technologies for building web interfaces and interactive user experiences.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### ⚙️ 2. Backend Development & Programming Languages
-
-Programming languages and backend technologies for developing server-side applications, business logic, and APIs.
+### ⚙️ Backend & Bahasa Pemrograman
+*Bahasa dan teknologi untuk membangun logika bisnis, API, dan aplikasi sisi server.*
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -79,9 +88,8 @@ Programming languages and backend technologies for developing server-side applic
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 🗄️ 3. Database Management
-
-Relational database systems and backend database services for storing, managing, and retrieving application data.
+### 🗄️ Basis Data
+*Sistem basis data relasional untuk menyimpan, mengelola, dan mengambil data aplikasi.*
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -90,20 +98,18 @@ Relational database systems and backend database services for storing, managing,
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-### 📱 4. Mobile Development
-
-Technologies for cross-platform mobile application development.
+### 📱 Pengembangan Mobile
+*Aplikasi mobile lintas platform.*
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
-### 🔧 5. Development Tools & Environment
-
-Tools for coding, version control, API testing, database management, and development environments.
+### 🔧 Tools & Lingkungan Pengembangan
+*Alat untuk menulis kode, version control, pengujian API, dan manajemen basis data.*
 
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
@@ -113,69 +119,74 @@ Tools for coding, version control, API testing, database management, and develop
 
 ---
 
-## 📚 Currently Learning
+## 📚 Sedang Dipelajari
 
-Continuously developing my technical knowledge and software engineering capabilities.
+Terus mengembangkan pengetahuan teknis dan kemampuan rekayasa perangkat lunak.
 
-- **Rust Programming:** Ownership, borrowing, lifetimes, traits, error handling, and asynchronous programming.
-- **Backend Development:** Actix Web, REST API architecture, authentication, authorization, and backend application structure.
-- **Frontend Development:** HTML, CSS, JavaScript, responsive layouts, and modern web development fundamentals.
-- **Database Engineering:** PostgreSQL, SQLite, SQLx, relational database design, and query operations.
-- **UI/UX Fundamentals:** User-centered design, usability, visual hierarchy, and responsive interface principles.
+| | Bidang | Topik yang Dipelajari |
+|:---:|:---|:---|
+| 🦀 | **Pemrograman Rust** | *Ownership*, *borrowing*, *lifetimes*, *traits*, penanganan error, dan pemrograman asinkron |
+| ⚙️ | **Pengembangan Backend** | Actix Web, arsitektur REST API, autentikasi, otorisasi, dan struktur aplikasi backend |
+| 🎨 | **Pengembangan Frontend** | HTML, CSS, JavaScript, tata letak responsif, dan dasar pengembangan web modern |
+| 🗄️ | **Rekayasa Basis Data** | PostgreSQL, SQLite, SQLx, perancangan basis data relasional, dan operasi query |
+| ✨ | **Dasar UI/UX** | Desain berpusat pada pengguna, *usability*, hierarki visual, dan prinsip antarmuka responsif |
 
 ---
 
-## 💻 Projects & Development Interests
+## 💻 Proyek & Minat Pengembangan
 
-I enjoy learning through practical projects and exploring different areas of software engineering.
+Saya belajar paling baik lewat proyek nyata sambil menjelajahi berbagai bidang rekayasa perangkat lunak.
 
-My development interests include:
-
-- **Web Applications:** Responsive websites, dashboards, and management systems.
-- **Backend Systems:** REST APIs, authentication, authorization, and business logic.
-- **Database Systems:** Relational database design, CRUD operations, and data management.
-- **Mobile Applications:** Cross-platform application development.
-- **UI/UX Engineering:** Clean interfaces, accessibility, usability, and user-friendly interactions.
+| | Minat | Deskripsi |
+|:---:|:---|:---|
+| 🌐 | **Aplikasi Web** | Situs responsif, dasbor, dan sistem manajemen |
+| 🧱 | **Sistem Backend** | REST API, autentikasi, otorisasi, dan logika bisnis |
+| 🗃️ | **Sistem Basis Data** | Perancangan basis data relasional, operasi CRUD, dan pengelolaan data |
+| 📱 | **Aplikasi Mobile** | Pengembangan aplikasi lintas platform |
+| 🎯 | **UI/UX Engineering** | Antarmuka bersih, aksesibilitas, dan interaksi yang ramah pengguna |
 
 ---
 
 ## 🤝 Soft Skills
 
-- **Leadership:** Experience leading and coordinating organizational activities.
-- **Communication:** Effective communication and public speaking.
-- **Problem Solving:** Analytical thinking and systematic problem resolution.
-- **Teamwork:** Collaboration and coordination within a team.
-- **Adaptability:** Ability to learn and adapt to new technologies and environments.
-- **Discipline:** Commitment to responsibilities and continuous improvement.
+<div align="center">
+
+| 🧭 Kepemimpinan | 🗣️ Komunikasi | 🧠 Pemecahan Masalah |
+|:---:|:---:|:---:|
+| Memimpin dan mengoordinasi kegiatan organisasi | Komunikasi efektif dan berbicara di depan umum | Berpikir analitis dan menyelesaikan masalah secara sistematis |
+
+| 🤝 Kerja Sama Tim | 🔄 Adaptabilitas | 🔥 Disiplin |
+|:---:|:---:|:---:|
+| Kolaborasi dan koordinasi dalam tim | Cepat belajar dan beradaptasi dengan teknologi dan lingkungan baru | Berkomitmen pada tanggung jawab dan perbaikan diri |
+
+</div>
 
 ---
 
-## ⚜️ Organizational Experience
+## ⚜️ Pengalaman Organisasi
 
-### Ketua Ambalan / Pradana — Pramuka SMKN 1 Kepanjen
+### 🏕️ Ketua Ambalan / Pradana — Pramuka SMKN 1 Kepanjen
+**🗓️ Periode: 2025 – 2026**
 
-**Period: 2025 – 2026**
-
-- **Leadership & Coordination:** Led and coordinated organizational programs and regular scouting activities.
-- **Communication & Public Speaking:** Developed communication skills through meetings, presentations, and organizational coordination.
-- **Management & Problem Solving:** Managed organizational activities and handled challenges within the team.
-- **Administration & Collaboration:** Worked with school representatives and scouting advisors to organize activities and administrative responsibilities.
+- 🧭 **Kepemimpinan & Koordinasi** — Memimpin dan mengoordinasi program organisasi serta kegiatan kepramukaan rutin.
+- 🗣️ **Komunikasi & Public Speaking** — Mengasah kemampuan komunikasi melalui rapat, presentasi, dan koordinasi organisasi.
+- 📋 **Manajemen & Pemecahan Masalah** — Mengelola kegiatan organisasi dan menangani tantangan di dalam tim.
+- 🤝 **Administrasi & Kolaborasi** — Bekerja sama dengan perwakilan sekolah dan pembina pramuka dalam menyelenggarakan kegiatan serta tugas administrasi.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Statistik GitHub
 
 <div align="center">
 
 <a href="https://github.com/yofanrifky">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yofanrifky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yofanrifky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistik GitHub" />
 </a>
-
 <a href="https://github.com/yofanrifky">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yofanrifky&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yofanrifky&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Paling Sering Digunakan" />
 </a>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yofanrifky&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yofanrifky&theme=tokyonight&hide_border=true" alt="Streak Kontribusi GitHub" />
 
 </div>
 
@@ -183,14 +194,16 @@ My development interests include:
 
 <div align="center">
 
-### 💡 Personal Motto
+### 💡 Motto Pribadi
 
-*"Discipline is the bridge between goals and accomplishment."*
+> *"Disiplin adalah jembatan antara tujuan dan pencapaian."*
 
 <br />
 
-**Thanks for visiting my profile!**
+**Terima kasih sudah mampir ke profil saya! 🙌**
 
-<sub>Designed with ❤️ by Muchamad Yofan Rifky Herfanda</sub>
+<sub>Dirancang dengan ❤️ oleh Muchamad Yofan Rifky Herfanda</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" />
 
 </div>
