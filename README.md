@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muchamad%20Yofan%20Rifky%20Herfanda&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Calon%20Software%20Engineer%20%7C%20Backend%20%26%20Frontend%20Developer&descSize=16&descAlignY=58" alt="Header" />
+# 👨‍💻 Muchamad Yofan Rifky Herfanda
 
-<a href="https://github.com/yofanrifky">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D1FF&center=true&vCenter=true&width=620&lines=Siswa+Rekayasa+Perangkat+Lunak+%F0%9F%8E%93;Belajar+Rust+%26+Actix+Web+%F0%9F%A6%80;Membangun+Backend+yang+Andal+%E2%9A%99%EF%B8%8F;Disiplin+%E2%80%A2+Problem+Solving+%E2%80%A2+Kepemimpinan" alt="Typing SVG" />
-</a>
+### 🎓 Siswa Rekayasa Perangkat Lunak — SMK Negeri 1 Kepanjen
 
-<br />
-
-🎓 **Siswa Rekayasa Perangkat Lunak — SMK Negeri 1 Kepanjen**
+**Calon Software Engineer | Backend & Frontend Developer**
 
 <i>Disiplin • Pemecahan Masalah • Belajar Berkelanjutan • Kepemimpinan</i>
 
-<br /><br />
+<br />
 
 <a href="mailto:yofanrefki@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -175,23 +171,6 @@ Saya belajar paling baik lewat proyek nyata sambil menjelajahi berbagai bidang r
 
 ---
 
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<a href="https://github.com/yofanrifky">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yofanrifky&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistik GitHub" />
-</a>
-<a href="https://github.com/yofanrifky">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yofanrifky&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Paling Sering Digunakan" />
-</a>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yofanrifky&theme=tokyonight&hide_border=true" alt="Streak Kontribusi GitHub" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 Motto Pribadi
@@ -203,7 +182,5 @@ Saya belajar paling baik lewat proyek nyata sambil menjelajahi berbagai bidang r
 **Terima kasih sudah mampir ke profil saya! 🙌**
 
 <sub>Dirancang dengan ❤️ oleh Muchamad Yofan Rifky Herfanda</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" />
 
 </div>
